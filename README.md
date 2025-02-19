@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BikashKalitaEIU
+- 👋 Hi, I’m Bikash Kalita
 - 👀 I’m interested in Data Engineering, Cloud native data architecture and transformation of data business
 
 
