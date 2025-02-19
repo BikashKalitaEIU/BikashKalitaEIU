@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BikashKalitaEIU
 - 👀 I’m interested in Data Engineering, Cloud native data architecture and transformation of data business
-- 🌱 I’m currently learning AWS Glue and Lambda
+
 
 
 <!---
